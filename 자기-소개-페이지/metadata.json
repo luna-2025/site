@@ -1,0 +1,6 @@
+{
+  "name": "자기 소개 페이지",
+  "description": "누구나 손쉽게 나만의 프로필, 보유 기술, 프로젝트, 경력 및 연락처를 등록하고 실시간으로 편집할 수 있는 반응형 포트폴리오 및 자기 소개 웹사이트입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
